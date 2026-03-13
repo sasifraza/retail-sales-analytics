@@ -34,3 +34,14 @@ matplotlib
 The full analysis is available in:
 
 retail_analytics.ipynb
+
+
+## Business Insights
+
+This analysis answers several common retail analytics questions:
+
+• Which countries generate the most revenue?
+• Who are the highest value customers?
+• How does revenue change over time?
+
+These insights help businesses understand customer behavior and sales trends.
